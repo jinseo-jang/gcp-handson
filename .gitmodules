@@ -1,0 +1,3 @@
+[submodule "cdc-architecture"]
+	path = cdc-architecture
+	url = https://github.com/jinseo-jang/cdc-architecture.git
